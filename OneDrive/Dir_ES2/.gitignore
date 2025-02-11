@@ -1,0 +1,22 @@
+# Ignorar arquivos de compilação do .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignorar arquivos do Visual Studio Code
+.vscode/
+
+# Ignorar arquivos temporários do sistema
+*.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Ignorar pacotes NuGet
+packages/
+
+# Ignorar saídas de build
+artifacts/
